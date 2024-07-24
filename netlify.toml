@@ -1,0 +1,89 @@
+[[redirects]]
+  from = "/api/*"
+  to = "http://davidphenom.pythonanywhere.com/api/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/create-question/*"
+  to = "http://davidphenom.pythonanywhere.com/create-question/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/create-theoryquestion/*"
+  to = "http://davidphenom.pythonanywhere.com/create-theoryquestion/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/create-exam/*"
+  to = "http://davidphenom.pythonanywhere.com/create-exam/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/create-account/*"
+  to = "http://davidphenom.pythonanywhere.com/create-account/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/signin/*"
+  to = "http://davidphenom.pythonanywhere.com/signin/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/signout/*"
+  to = "http://davidphenom.pythonanywhere.com/signout/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/get-objquestion/*"
+  to = "http://davidphenom.pythonanywhere.com/get-objquestion/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/get-theoryquestion/*"
+  to = "http://davidphenom.pythonanywhere.com/get-theoryquestion/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/start-exam/*"
+  to = "http://davidphenom.pythonanywhere.com/start-exam/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/answer-objquestion/*"
+  to = "http://davidphenom.pythonanywhere.com/answer-objquestion/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/answer-theoryquestion/*"
+  to = "http://davidphenom.pythonanywhere.com/answer-theoryquestion/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/submit-exam/*"
+  to = "http://davidphenom.pythonanywhere.com/submit-exam/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/submit-answer-exam/*"
+  to = "http://davidphenom.pythonanywhere.com/submit-answer-exam/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/proceed-exam/*"
+  to = "http://davidphenom.pythonanywhere.com/proceed-exam/:splat"
+  status = 200
+  force = true
